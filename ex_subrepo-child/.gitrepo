@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/junpei-8/ex_subrepo-child
+	branch = main
+	commit = 2977a6331c03e931df9414d3fe28c63fc3a26001
+	parent = e67126fa659c791fba9bb753ca7b4f0fa8b03faa
+	method = merge
+	cmdver = 0.4.9
